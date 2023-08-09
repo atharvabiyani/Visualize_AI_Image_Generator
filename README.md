@@ -7,7 +7,6 @@ A simple web-based tool for an Image Generator AI Tool that allows users to crea
 <h1>Tech Stack 💼</h1>
 
 - Frontend: HTML, CSS, JavaScript
-https://github.com/atharvabiyani/Visualize_AI_Image_Generator/assets/125630245/f1d3ab44-8cdd-46be-a268-34a23424b5c4)
 
 - API: OpenAI API
 
