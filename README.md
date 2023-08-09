@@ -23,6 +23,6 @@ A simple web-based tool for an Image Generator AI Tool that allows users to crea
 
 <h1>Video Demo 🎥</h1>
 
-https://github.com/atharvabiyani/Visualize_AI_Image_Generator/assets/125630245/5b9098d8-0ac8-438c-81bd-9cef8822cdbd
+https://github.com/atharvabiyani/Visualize_AI_Image_Generator/assets/125630245/3f78cd7b-bad6-4a2f-9ed4-04b1ec387457
 
 
